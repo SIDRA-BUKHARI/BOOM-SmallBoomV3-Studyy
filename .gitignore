@@ -1,0 +1,10 @@
+target/
+*.class
+*.jar
+*.vcd
+*.fst
+*.out
+generated-src/
+.idea/
+.vscode/
+.DS_Store
